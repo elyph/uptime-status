@@ -1,0 +1,4 @@
+[
+  { "name": "GitHub Status", "url": "https://www.githubstatus.com/api/v2/status.json" },
+  { "name": "Google 204", "url": "https://www.google.com/generate_204" }
+]
