@@ -1,24 +1,18 @@
 {
-  "generatedAt": "2026-03-08T13:47:54.220Z",
+  "generatedAt": "2026-03-08T14:02:20.468Z",
   "targets": [
     {
       "name": "GitHub Status",
       "url": "https://www.githubstatus.com/api/v2/status.json",
       "last": {
-        "t": "2026-03-08T13:47:54.183Z",
+        "t": "2026-03-08T14:02:20.423Z",
         "ok": true,
         "status": 200,
-        "ms": 255
+        "ms": 228
       },
       "uptime24h": 100,
       "p95ms24h": 417,
       "history": [
-        {
-          "t": "2026-02-28T17:45:06.783Z",
-          "ok": true,
-          "status": 200,
-          "ms": 301
-        },
         {
           "t": "2026-02-28T17:56:15.567Z",
           "ok": true,
@@ -1740,6 +1734,12 @@
           "ok": true,
           "status": 200,
           "ms": 255
+        },
+        {
+          "t": "2026-03-08T14:02:20.423Z",
+          "ok": true,
+          "status": 200,
+          "ms": 228
         }
       ]
     },
@@ -1747,20 +1747,14 @@
       "name": "Google 204",
       "url": "https://www.google.com/generate_204",
       "last": {
-        "t": "2026-03-08T13:47:54.220Z",
+        "t": "2026-03-08T14:02:20.467Z",
         "ok": true,
         "status": 204,
-        "ms": 36
+        "ms": 44
       },
       "uptime24h": 100,
       "p95ms24h": 80,
       "history": [
-        {
-          "t": "2026-02-28T17:45:06.815Z",
-          "ok": true,
-          "status": 204,
-          "ms": 31
-        },
         {
           "t": "2026-02-28T17:56:15.619Z",
           "ok": true,
@@ -3482,6 +3476,12 @@
           "ok": true,
           "status": 204,
           "ms": 36
+        },
+        {
+          "t": "2026-03-08T14:02:20.467Z",
+          "ok": true,
+          "status": 204,
+          "ms": 44
         }
       ]
     }
